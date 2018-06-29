@@ -1,0 +1,23 @@
+{
+    "price": "¥8,000", 
+    "number": [
+        "180504"
+    ], 
+    "material": [
+        "養殖真珠",
+        "18K(ゴールド)",
+        "SV925(シルバー)"
+    ], 
+    "size": [
+        "7,9,11,13,15"
+    ], 
+    "description": "近頃、流行りの真珠です。生体起源の宝石特有のあたたかみがあります。", 
+    "id": "pearl", 
+    "images": [
+        "img/jewelries/gold-perl-01.png", 
+        "img/jewelries/gold−perl-02.png", 
+        "img/jewelries/silver-perl-01.png", 
+        "img/jewelries/silver-perl-02.png"
+    ], 
+    "name": "真珠のゆびわ 〜種〜"
+}

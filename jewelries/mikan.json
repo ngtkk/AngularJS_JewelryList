@@ -1,0 +1,24 @@
+{
+    "price": "¥8,000", 
+    "number": [
+        "180503"
+    ], 
+    "material": [
+        "カーネリアン",
+        "翡翠（ジェダイト）",
+        "18K（ゴールド）",
+        "SV925（シルバー）"
+    ], 
+    "size": [
+        "7,9,11,13,15"
+    ], 
+    "description": "温州みかんのゆびわです。カーネリアンはりんごにも使えそうな色をしています。", 
+    "id": "mikan", 
+    "images": [
+        "img/jewelries/gold-mikan-01.png", 
+        "img/jewelries/gold−mikan-02.png", 
+        "img/jewelries/silver−mikan-01.png", 
+        "img/jewelries/silver−mikan-02.png"
+    ], 
+    "name": "カーネリアンのゆびわ　〜温州みかん〜"
+}

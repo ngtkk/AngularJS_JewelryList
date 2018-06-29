@@ -1,0 +1,40 @@
+[
+    {
+        "age": 3, 
+        "id": "mikan", 
+        "imageUrl": "img/jewelries/gold−mikan-02.png", 
+        "name": "カーネリアン × 温州みかん", 
+        "snippet": "みかんの季節ではないけど・・"
+    }, 
+    {
+        "age": 1, 
+        "id": "aoringo", 
+        "imageUrl": "img/jewelries/gold-aoringo-02.png", 
+        "name": "翡翠 × 青林檎", 
+        "snippet": "硬玉（こうぎょく）ですが青林檎です。"
+    }, 
+    {
+        "age": 2, 
+        "id": "lemon", 
+        "imageUrl": "img/jewelries/gold-lemon-02.png", 
+        "name": "シトリン × 瀬戸内レモン", 
+        "snippet": "美味しいレモンを指輪にしました。"
+    }, 
+    {
+        "age": 5, 
+        "carrier": "Dell", 
+        "id": "pearl", 
+        "imageUrl": "img/jewelries/gold−perl-02.png", 
+        "name": "真珠 × 種", 
+        "snippet": "真珠は何の果物でしょう？どちらかというと、種かな。"
+    }, 
+    {
+        "age": 0, 
+        "carrier": "Verizon", 
+        "id": "ringo", 
+        "imageUrl": "img/jewelries/gold−ringo-02.png", 
+        "name": "赤珊瑚 × 赤林檎", 
+        "snippet": "赤珊瑚は1cm成長するのに数十年かかります。"
+    }
+
+]

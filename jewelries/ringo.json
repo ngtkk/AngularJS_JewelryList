@@ -1,0 +1,24 @@
+{
+    "price": "¥8,000", 
+    "number": [
+        "180501"
+    ], 
+    "material": [
+        "赤珊瑚",
+        "翡翠（ジェダイト）",
+        "18K（ゴールド）",
+        "SV925（シルバー）"
+    ], 
+    "size": [
+        "7,9,11,13,15"
+    ], 
+    "description": "質の良い赤珊瑚は、１cm成長するのに数十年を要します。素材の色を活かしたカボション・カットで仕上げました。ゴールドがおすすめです！　※追加料金で血赤珊瑚でも製造できます。ご相談ください。",
+    "id": "ringo", 
+    "images": [
+        "img/jewelries/gold-ringo-01.png",
+        "img/jewelries/gold−ringo-02.png",
+        "img/jewelries/silver-ringo-01.png",
+        "img/jewelries/silver−ringo-02.png"
+    ], 
+    "name": "赤珊瑚のゆびわ 〜赤りんご〜"
+}

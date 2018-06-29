@@ -1,0 +1,23 @@
+{
+    "price": "¥8,000", 
+    "number": [
+        "180502"
+    ], 
+    "material": [
+        "翡翠（ジェダイト）",
+        "18K(ゴールド)",
+        "SV925(シルバー)"
+    ], 
+    "size": [
+        "7,9,11,13,15"
+    ], 
+    "description": "青林檎。スーパーで梨と間違える。",
+    "id": "aoringo", 
+    "images": [
+        "img/jewelries/gold-aoringo-01.png", 
+        "img/jewelries/gold-aoringo-02.png",
+        "img/jewelries/silver-aoringo-01.png", 
+        "img/jewelries/silver-aoringo-02.png" 
+    ], 
+    "name": "翡翠のゆびわ 〜青りんご〜"
+}

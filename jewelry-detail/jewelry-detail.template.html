@@ -1,0 +1,37 @@
+<div class="jewelry-images">
+  <img ng-src="{{img}}" class="jewelry"
+      ng-class="{selected: img === $ctrl.mainImageUrl}"
+      ng-repeat="img in $ctrl.jewelry.images" />
+</div>
+
+<img ng-src="{{$ctrl.jewelry.images[0]}}" class="jewelry" />
+
+<h1>{{$ctrl.jewelry.name}}</h1>
+
+<p>{{$ctrl.jewelry.description}}</p>
+<img ng-src="{{$ctrl.mainImageUrl}}" class="jewelry" />
+
+<ul class="jewelry-thumbs">
+  <li ng-repeat="img in $ctrl.jewelry.images">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
+<ul class="specs">
+  <li>
+    <dl>
+      <dt>品番</dt>
+      <dd ng-repeat="number in $ctrl.jewelry.number">{{number}}</dd>
+      <dt>素材</dt>
+      <dd ng-repeat="material in $ctrl.jewelry.material">{{material}}</dd>
+      <dt>サイズ</dt>
+      <dd ng-repeat="size in $ctrl.jewelry.size">{{size}}</dd>
+    </dl>
+  </li>
+  
+  <li>
+    <span>価格</span>
+    <dd>{{$ctrl.jewelry.price}}</dd>
+      <div class="buy"><a href="#">購入する</a></div>
+  </li>
+    
+</ul>

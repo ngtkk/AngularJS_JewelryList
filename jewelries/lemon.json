@@ -1,0 +1,25 @@
+{
+    "additionalFeatures": "シトリン", 
+    "price": "¥8,000", 
+    "number": [
+        "180503"
+    ], 
+    "material": [
+        "シトリン",
+        "翡翠（ジェダイト）",
+        "18K（ゴールド）",
+        "SV925（シルバー）"
+    ], 
+    "size": [
+        "7,9,11,13,15"
+    ], 
+    "description": "この瀬戸内レモンはシトリンでできています。シトリンというのは美味しそうな石ですよね。",
+    "id": "lemon", 
+    "images": [
+        "img/jewelries/gold-lemon-01.png", 
+        "img/jewelries/gold−lemon-02.png", 
+        "img/jewelries/silver−lemon-01.png", 
+        "img/jewelries/silver−lemon-02.png"
+    ], 
+    "name": "シトリンの指輪　〜瀬戸内レモン〜"
+}

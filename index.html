@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja" ng-app="jewelrycatApp">
+  <head>
+  <meta charset="utf-8">
+  <title>すいきんのわ - オンラインショップ</title>
+  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="app.animations.css" />
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
+<link href="https://fonts.googleapis.com/earlyaccess/hannari.css" rel="stylesheet" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <script src="angular-route.min.js"></script>
+  <script src="angular-resource.min.js"></script>
+  <script src="angular-animate.min.js"></script>
+  <script src="app.module.js"></script>
+  <script src="app.animations.js"></script>
+  <script src="core/core.module.js"></script>
+  <script src="core/jewelry/jewelry.module.js"></script>
+  <script src="core/jewelry/jewelry.service.js"></script>
+  <script src="app.config.js"></script>
+  <script src="jewelry-list/jewelry-list.module.js"></script>
+  <script src="jewelry-list/jewelry-list.component.js"></script>
+  <script src="jewelry-detail/jewelry-detail.module.js"></script>
+  <script src="jewelry-detail/jewelry-detail.component.js"></script>
+  </head>
+  <body>
+<div class="view-container">
+  <div ng-view class="view-frame"></div>
+</div>
+  </body>
+</html>
